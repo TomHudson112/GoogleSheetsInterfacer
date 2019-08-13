@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("GoogleSheetsInterfacer")]
+[assembly: AssemblyTitle("GWrapper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("GoogleSheetsInterfacer")]
+[assembly: AssemblyProduct("GWrapper")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b90b6614-a1ab-4e88-8936-15d21dba1fcc")]
+[assembly: Guid("8d18a61e-6616-45dc-ac68-89a3bd29e98a")]
 
 // Version information for an assembly consists of the following four values:
 //
